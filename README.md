@@ -1,47 +1,57 @@
-# Hello website!
+# 💻 Lyndon Kamschulte | Personal Portfolio
 
-Lyndon Kamschulte's personal portfolio website. Highlighting my expertise, skillset and work history - Opening the door for future employers and collaborators to get in touch with me for projects and positions.
-_Last updated: 28 Feb 2023_
+**lyndonkamschulte.com** is my professional portfolio website, showcasing my expertise, skillset, and work history. This site is designed to be a comprehensive resource for future employers, clients, and collaborators to review my qualifications and easily get in touch.
 
-## What's in this project?
+## 🚀 Key Highlights & Features
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+The live website is designed to provide an organized and in-depth view of my professional profile:
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+* **Detailed Work History:** A comprehensive timeline of my professional experience, roles, and key responsibilities.
+* **Technical Stack:** A full listing of the programming languages, frameworks, and tools I am proficient in.
+* **Project Showcase:** A curated selection of my most notable passion projects and professional contributions, including links to live demos and/or source repositories.
+* **Contact Information:** Clear channels for professional inquiries, collaboration opportunities, and recruiter outreach.
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+---
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add using the code in the TODO.
+## 🛠️ Technologies & Structure
 
-Open each file and check out the comments (in gray) for more info.
+This portfolio is built using foundational web technologies, ensuring high performance, accessibility, and modern design standards.
 
-## Try this next 🏗️
+### Core Technologies
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+| Technology | Purpose |
+| :--- | :--- |
+| **HTML5** | Content structure and semantic markup. |
+| **CSS3** | Styling, layout, and responsive design. |
+| **JavaScript** | Client-side interactivity and dynamic elements. |
+| **Hosting** | Deployed via **GitHub Pages** for reliable public access. |
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+### Repository Structure
 
-## Ready to share your site?
+| File/Directory | Description |
+| :--- | :--- |
+| `index.html` | The main entry point and landing page for the website. |
+| `style.css` | Contains all global styling, design rules, and media queries. |
+| `script.js` | Handles custom interactive logic and dynamic features. |
+| `README.md` | **(You are here!)** Documentation for the repository. |
 
-Add these meta tags for SEO and social sharing between your page `<head></head>` tags, changing the values for your site:
+---
 
-```
-<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
-<meta name="description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta name="robots" content="index,follow" />
-<meta property="og:title" content="Hello World!" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
-<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"/>
-<meta name="twitter:card" content="summary" />
-```
+## 🔗 Viewing & Contact
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+### Live Website
 
-## You built this with Glitch!
+The live, production version of this site is available at:
+[**lyndonkamschulte.com**](https://lyndonkamschulte.com/)
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+### Get in Touch
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+I am open to new career opportunities and collaborations. You can find my contact details directly on the website or via my [GitHub Profile](https://github.com/YourGitHubUsernameHere) (replace with your actual username).
+
+---
+
+## ©️ License & Ownership
+
+This repository contains the source code for my intellectual property. The design and content are owned by Lyndon Kamschulte.
+
+*Last updated: **October 2025*** (You can update this date as needed)
